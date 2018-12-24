@@ -1,4 +1,5 @@
 # Crash Java Course
-Instructor Hamid Mahmoud
+### by Hamid Mahmoud
 
+## Enjoy!
 
